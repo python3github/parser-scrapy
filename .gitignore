@@ -1,0 +1,10 @@
+__pycache__/
+.env
+.vscode/
+*.pyc
+report.csv
+receipt.csv
+patient.csv
+specialist.csv
+price.csv
+*.csv
