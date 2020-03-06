@@ -17,7 +17,7 @@ pip install -r requirements.txt
 В файле custom_settings.py должны храниться настройки необходимые для работы парсера
 
 - ALLOWED_DOMAINS = ['site.com']
-- START_URLS = ['<https://site.com/users/index>']
+- START_URLS = ['https://site.com/users/index']
 - USER_LOGIN = 'login'
 - USER_PASSWORD = 'password'
 
